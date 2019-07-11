@@ -1,0 +1,5 @@
+/node_modules
+/client/node_modules
+/notes.txt
+/config/keys.js
+.env
